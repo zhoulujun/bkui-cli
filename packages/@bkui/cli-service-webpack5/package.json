@@ -1,6 +1,6 @@
 {
-  "name": "bk-vision-cli",
-  "version": "2.2.6",
+  "name": "@blueking/cli-service-webpack5",
+  "version": "2.1.0",
   "description": "",
   "main": "./dist/index.js",
   "bin": {
@@ -48,7 +48,6 @@
     "ts-node": "^9.0.0",
     "tslib": "^2.1.0",
     "typescript": "^4.4.4",
-    "vue-loader": "^15.9.8",
     "vue-template-compiler": "^2.6.12",
     "webpack": "^5.73.0",
     "webpack-bundle-analyzer": "^4.5.0",
